@@ -1,0 +1,11 @@
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\bin\Debug\Logic.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\bin\Debug\Logic.pdb
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\bin\Debug\Data.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\bin\Debug\Data.pdb
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\obj\Debug\Logic.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\obj\Debug\Logic.pdb
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\bin\Debug\linq2db.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Logic\bin\Debug\linq2db.xml

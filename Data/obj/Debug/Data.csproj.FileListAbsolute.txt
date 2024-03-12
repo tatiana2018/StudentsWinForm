@@ -1,0 +1,9 @@
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\bin\Debug\Data.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\bin\Debug\Data.pdb
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\obj\Debug\Data.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\obj\Debug\Data.pdb
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\bin\Debug\linq2db.dll
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\bin\Debug\linq2db.xml
+C:\Users\tmgallon\source\repos\MyFirstAppWinForm\Data\obj\Debug\Data.csproj.CopyComplete
